@@ -1,0 +1,37 @@
+<root>
+	<data> 
+		<name>get-pip</name>
+		<link>https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_whl/get-pip.py?raw=true</link>
+		<copyTo></copyTo>
+	</data>
+	<data> 
+		<name>pyHook-1.5.1-cp27-cp27m-win_amd64.whl</name>
+		<link>"https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_whl/pyHook-1.5.1-cp27-cp27m-win_amd64.whl?raw=true"</link>
+		<copyTo></copyTo>
+	</data>
+	<data> 
+		<name>pywin32-221-cp27-cp27m-win_amd64.whl</name>
+		<link>"https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_whl/pywin32-221-cp27-cp27m-win_amd64.whl?raw=true"</link>
+		<copyTo></copyTo>
+	</data>
+	<data> 
+		<name>_cpyHook.pyd</name>
+		<link>https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_pyHook/_cpyHook.pyd?raw=true"</link>
+		<copyTo></copyTo>
+	</data>
+	<data> 
+		<name>_win32sysloader.pyd</name>
+		<link>"https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_pywin32/_win32sysloader.pyd?raw=true"</link>
+		<copyTo></copyTo>
+	</data>
+	<data> 
+		<name>pythoncom27.dll</name>
+		<link>"https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_pywin32/pythoncom27.dll?raw=true"</link>
+		<copyTo></copyTo>
+	</data>
+	<data> 
+		<name>pywintypes27.dll</name>
+		<link>"https://github.com/python4lib/PyhtonLib/blob/master/_02_InstallPackage/_pywin32/pywintypes27.dll?raw=true"</link>
+		<copyTo></copyTo>
+	</data>
+</root>
